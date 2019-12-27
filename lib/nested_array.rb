@@ -25,7 +25,7 @@ def assembled_matrix
     ORGANIC_PRODUCE,
     CONVENTIONAL_PRODUCE
   ]
-  puts matrix
+  p matrix
 end
 
 def sorted_matrix
